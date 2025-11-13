@@ -26,3 +26,10 @@ This is downloaded and unzipped when the user creates a new Inchiostro project.
 
 All other files here have no special meaning.
 
+
+Creating a new version:
+
+Zip up the entire contents of the inchiostro-dev repo manually and add it here, replacing inchiostro-latest. Then change template-package.json.
+
+
+
