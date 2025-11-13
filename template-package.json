@@ -1,13 +1,9 @@
 {
   "id": "inchiostro",
-  "name": "Inchiostro Next",
-  "version": "0.0.2",
+  "name": "Inchiostro",
+  "version": "0.0.0",
   "author": "Daniel Wittgenstein",
   "license": "MIT",
-  "descr": "An Ink template.",
-  "remote": {
-    "meta": "https://raw.githubusercontent.com/Daniel-Wittgenstein/inchiostro-dist/refs/heads/main/meta.json",
-    "latest": "https://raw.githubusercontent.com/Daniel-Wittgenstein/inchiostro-dist/refs/heads/main/inchiostro-latest.zip"
-  },
+  "descr": "An upcoming Ink template. Currently, this template does not work, yet. Check back later. In the meantime, choose another template.",
   "useSources": true
 }
